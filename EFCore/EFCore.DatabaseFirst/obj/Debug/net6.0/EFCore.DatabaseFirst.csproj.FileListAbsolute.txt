@@ -1,0 +1,15 @@
+D:\DEVELOPMENT\Udemy\Entity-Framework-Core-6\EFCore\EFCore.DatabaseFirst\bin\Debug\net6.0\EFCore.DatabaseFirst.exe
+D:\DEVELOPMENT\Udemy\Entity-Framework-Core-6\EFCore\EFCore.DatabaseFirst\bin\Debug\net6.0\EFCore.DatabaseFirst.deps.json
+D:\DEVELOPMENT\Udemy\Entity-Framework-Core-6\EFCore\EFCore.DatabaseFirst\bin\Debug\net6.0\EFCore.DatabaseFirst.runtimeconfig.json
+D:\DEVELOPMENT\Udemy\Entity-Framework-Core-6\EFCore\EFCore.DatabaseFirst\bin\Debug\net6.0\EFCore.DatabaseFirst.dll
+D:\DEVELOPMENT\Udemy\Entity-Framework-Core-6\EFCore\EFCore.DatabaseFirst\bin\Debug\net6.0\EFCore.DatabaseFirst.pdb
+D:\DEVELOPMENT\Udemy\Entity-Framework-Core-6\EFCore\EFCore.DatabaseFirst\obj\Debug\net6.0\EFCore.DatabaseFirst.csproj.AssemblyReference.cache
+D:\DEVELOPMENT\Udemy\Entity-Framework-Core-6\EFCore\EFCore.DatabaseFirst\obj\Debug\net6.0\EFCore.DatabaseFirst.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEVELOPMENT\Udemy\Entity-Framework-Core-6\EFCore\EFCore.DatabaseFirst\obj\Debug\net6.0\EFCore.DatabaseFirst.AssemblyInfoInputs.cache
+D:\DEVELOPMENT\Udemy\Entity-Framework-Core-6\EFCore\EFCore.DatabaseFirst\obj\Debug\net6.0\EFCore.DatabaseFirst.AssemblyInfo.cs
+D:\DEVELOPMENT\Udemy\Entity-Framework-Core-6\EFCore\EFCore.DatabaseFirst\obj\Debug\net6.0\EFCore.DatabaseFirst.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\Udemy\Entity-Framework-Core-6\EFCore\EFCore.DatabaseFirst\obj\Debug\net6.0\EFCore.DatabaseFirst.dll
+D:\DEVELOPMENT\Udemy\Entity-Framework-Core-6\EFCore\EFCore.DatabaseFirst\obj\Debug\net6.0\refint\EFCore.DatabaseFirst.dll
+D:\DEVELOPMENT\Udemy\Entity-Framework-Core-6\EFCore\EFCore.DatabaseFirst\obj\Debug\net6.0\EFCore.DatabaseFirst.pdb
+D:\DEVELOPMENT\Udemy\Entity-Framework-Core-6\EFCore\EFCore.DatabaseFirst\obj\Debug\net6.0\EFCore.DatabaseFirst.genruntimeconfig.cache
+D:\DEVELOPMENT\Udemy\Entity-Framework-Core-6\EFCore\EFCore.DatabaseFirst\obj\Debug\net6.0\ref\EFCore.DatabaseFirst.dll
