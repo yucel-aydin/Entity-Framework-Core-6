@@ -56,3 +56,10 @@ D:\DEVELOPMENT\Udemy\Entity-Framework-Core-6\EFCore\EfCore.CodeFirst\obj\Debug\n
 D:\DEVELOPMENT\Udemy\Entity-Framework-Core-6\EFCore\EfCore.CodeFirst\obj\Debug\net6.0\EfCore.CodeFirst.pdb
 D:\DEVELOPMENT\Udemy\Entity-Framework-Core-6\EFCore\EfCore.CodeFirst\obj\Debug\net6.0\EfCore.CodeFirst.genruntimeconfig.cache
 D:\DEVELOPMENT\Udemy\Entity-Framework-Core-6\EFCore\EfCore.CodeFirst\obj\Debug\net6.0\ref\EfCore.CodeFirst.dll
+D:\DEVELOPMENT\Udemy\Entity-Framework-Core-6\EFCore\EfCore.CodeFirst\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\DEVELOPMENT\Udemy\Entity-Framework-Core-6\EFCore\EfCore.CodeFirst\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\DEVELOPMENT\Udemy\Entity-Framework-Core-6\EFCore\EfCore.CodeFirst\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\DEVELOPMENT\Udemy\Entity-Framework-Core-6\EFCore\EfCore.CodeFirst\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\DEVELOPMENT\Udemy\Entity-Framework-Core-6\EFCore\EfCore.CodeFirst\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\DEVELOPMENT\Udemy\Entity-Framework-Core-6\EFCore\EfCore.CodeFirst\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\DEVELOPMENT\Udemy\Entity-Framework-Core-6\EFCore\EfCore.CodeFirst\bin\Debug\net6.0\appsettings.json
