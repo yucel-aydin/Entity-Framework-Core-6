@@ -18,6 +18,8 @@ namespace EfCore.CodeFirst.DAL
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
+            //Migration işlemlerinde appsettings.json üzerinde connection okuma işleme yapacağından eklendi.
+            Initializer.Build();
             optionsBuilder.UseSqlServer(Initializer.Configuration.GetConnectionString("SqlCon"));
         }
     }
