@@ -20,8 +20,16 @@ Initializer.Build();
     “__EFMigrationsHistory” adlı bir tablo oluşturarak bu tabloda migrationlarımızı tutar. İsimleri ve efcore versiyonları tutulur. 
     Migration lar arasında geçiş vs. işlemleri için kullanılır.
 
- 2- Update-database ==> Migration u veritabanına yansıtmak için kullanılır. İlgili entityler yoksa oluşturur, değişiklikleri varsa uygular.
+ 2- Update-database ==> Son migration u veritabanına yansıtmak için kullanılır. İlgili entityler  yoksa oluşturur varsa değişiklikleri uygular. 
+                        Aynı zamanda update-database <migrationname> Şeklinge bir migrationa dönme işlemi yapılabilir. 
+                        Dönmek istediğimiz migrationdan sonraki tüm migration sınıflarında ki down metotlarını çalıştırarak aradaki işlemleri geri alır. 
+                        Geri alınan migration sınıfları tekrar remove-migration metoduyla silinebilir.
 
+ 3- Remove-migration ==> Bu son oluşturulan ve database e yansıtılmamış migration ı silmek için kullanılır.
+                        Eğer Db ye yansıtılan bir migrationu silmek istiyorsak önce update-database ile dönemk istediğimiz migrationa dönüp 
+                        sonra silmek istediğimizi silebiliriz. 
+
+ 4-	Script-migration ==> Migrationların bir sql scriptini oluşturur ve bunları manuel olarak db tarafında kullanabiliriz.
  */
 using (var _context = new AppDbContext())
 {
